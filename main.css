@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color:#fdfafa;
+    color: #fa8e02;
+    margin: auto;
+}
+
+body{
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6, legend{
+    font-family: Arial;
+    font-size: 150%;
+}
+
+li{
+    font-family: Arial;
+}
+p{
+    font-family: Arial;
+    font-size: 75%;
+}
+a{
+    font-family: Arial;
+    text-decoration: none;
+}
+a:link{
+    color: #0c0101;
+}
+a:visited{
+    color: #0f0101;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
